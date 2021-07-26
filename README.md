@@ -2,6 +2,7 @@
 
 오늘보다 더 나은 내일을 만들기 위해 노력하는 개발자입니다 :)
 
+### Recent Activity
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#3356](https://github.com/GoogleContainerTools/jib/issues/3356) in [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib)
 2. 🎉 Merged PR [#3](https://github.com/hellozin/greading/pull/3) in [hellozin/greading](https://github.com/hellozin/greading)
